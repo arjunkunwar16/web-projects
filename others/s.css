@@ -1,0 +1,54 @@
+/*font-family*/
+p{
+font-family: "arial";
+}
+h1{
+font-family:"Georgia";
+}
+
+/*font-size*/
+body{
+	font-size:20px
+}
+h1{
+	font-size: 85px;
+}
+p{
+	
+}
+
+span{
+	font-size: 2.0em;
+}
+
+/*font-weight*/
+
+p{
+	font-weight:800;
+}
+
+/*line-hight*/
+p{
+	line-height: 1.5;
+}
+
+/*text-align*/
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+div{
+	text-align: right;
+}
+
+
+/*text-decoration*/
+
+p{
+	text-decoration: underline;
+}
+h1{
+	text-decoration: line-through;
+}

@@ -1,0 +1,34 @@
+
+/*star*/
+
+*{
+	border: 1px solid lightgrey;
+}
+
+/*descent selector*/
+ 
+ li a {
+ 	color:red;
+ }
+
+ /*adjacent selector*/
+
+ h4 + ul {
+ 	border: 4px solid red ;
+ }
+
+ /*attribute selector*/
+ a[
+ href="http://www.google.com"
+ ]{
+ 	background: yellow;
+ }
+ /*nth of type*/
+ 
+ ul:nth-of-type(3){
+ 	background:orange
+ }
+ li:nth-of-type(3)
+ {
+ 	background:blue;
+ }

@@ -1,0 +1,27 @@
+body{
+	background: url(https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/2019-02/cat-691175_1920square.jpg?itok=hQlooTUs);
+	background-size: cover;
+	background-position: center;
+	font-family: lato;
+	
+}
+html{
+	height: 100%;
+}
+.content{
+	text-align: center;
+	padding: 25%;
+	color: white;
+}
+
+h1{
+font-weight: 700;
+font-size: 5em;
+
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
